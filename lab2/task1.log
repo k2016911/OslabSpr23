@@ -1,0 +1,32 @@
+Script started on 2023-02-08 09:27:56+0500
+]0;adminx@adminx-VirtualBox: ~[01;32madminx@adminx-VirtualBox[00m:[01;34m~[00m$ ps
+  PID TTY          TIME CMD
+ 3089 pts/1    00:00:00 bash
+ 3105 pts/1    00:00:00 ps
+]0;adminx@adminx-VirtualBox: ~[01;32madminx@adminx-VirtualBox[00m:[01;34m~[00m$ pw[K[Kls
+ almeeza.txt   examples.desktop    [0m[01;31mns-allinone-3.33.tar.bz2[0m   [01;34mTemplates[0m
+ [01;34mDesktop[0m       [01;34mMusic[0m               [01;34mPictures[0m                   [01;34mVideos[0m
+ [01;34mDocuments[0m    'NS3 Location.odt'   [01;34mPublic[0m
+ [01;34mDownloads[0m     [01;34mns-allinone-3.33[0m    task1.log
+]0;adminx@adminx-VirtualBox: ~[01;32madminx@adminx-VirtualBox[00m:[01;34m~[00m$ pwf
+
+Command 'pwf' not found, did you mean:
+
+  command 'puf' from deb puf
+  command 'psf' from deb tcm
+  command 'pfw' from deb pftools
+  command 'pwd' from deb coreutils
+  command 'paf' from deb libpod-abstract-perl
+  command 'p0f' from deb p0f
+
+Try: sudo apt install <deb name>
+
+]0;adminx@adminx-VirtualBox: ~[01;32madminx@adminx-VirtualBox[00m:[01;34m~[00m$ pwd
+/home/adminx
+]0;adminx@adminx-VirtualBox: ~[01;32madminx@adminx-VirtualBox[00m:[01;34m~[00m$ mv [K[K[Kmv almeeza.txt ./de[K[KDesktop
+]0;adminx@adminx-VirtualBox: ~[01;32madminx@adminx-VirtualBox[00m:[01;34m~[00m$ date
+بدھ فروری  8 09:30:35 PKT 2023
+]0;adminx@adminx-VirtualBox: ~[01;32madminx@adminx-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2023-02-08 09:30:40+0500
